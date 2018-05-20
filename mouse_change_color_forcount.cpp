@@ -5,9 +5,6 @@ void Main() {
   const Rect rect1(20, 20, 100, 100);
   const Rect rect2(120, 120, 100, 100);
 
-
-  int colorchange1 = 0;
-  int colorchange2 = 0;
   int count1 = 0;
   int count2 = 0;
 
